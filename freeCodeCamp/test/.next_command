@@ -133,3 +133,4 @@ clear
 mikdir webstite
 mkdir website
 ls --color=auto
+cd website/
