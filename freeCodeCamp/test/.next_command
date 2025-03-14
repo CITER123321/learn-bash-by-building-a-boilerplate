@@ -205,3 +205,4 @@ find website
 cd /workspace/project/website
 find
 mv lato.ttf fonts
+mv menlo.otf fonts
