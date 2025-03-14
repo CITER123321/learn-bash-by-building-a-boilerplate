@@ -196,3 +196,11 @@ mkdir fonts
 ls --color=auto
 mv roboto.woff lato.tff fonts
 mv roboto.woff fonts
+mv roboto.woff fonts
+find website
+find webisite
+find roboto.woff
+clear
+find website
+cd /workspace/project/website
+find
