@@ -241,3 +241,7 @@ cd ..
 ls --color=auto
 find
 find -name images
+cd header.png /client/assets/images
+mv header.png /client/assets/images
+cp header.png /client/assets/images
+mv header.png client/assets/images
