@@ -204,3 +204,4 @@ clear
 find website
 cd /workspace/project/website
 find
+mv lato.ttf fonts
