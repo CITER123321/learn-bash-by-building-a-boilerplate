@@ -41,3 +41,6 @@ cd test
 pwd
 ls --color=auto
 cd ..
+pwd
+clear
+ls --color=auto
