@@ -130,3 +130,5 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mikdir webstite
+mkdir website
