@@ -177,3 +177,5 @@ ls --color=auto
 cp hrader.png images
 cp header.png images
 cp footer.jpeg images
+ls --color=auto
+cd images
