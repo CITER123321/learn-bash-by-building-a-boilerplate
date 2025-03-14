@@ -245,3 +245,7 @@ cd header.png /client/assets/images
 mv header.png /client/assets/images
 cp header.png /client/assets/images
 mv header.png client/assets/images
+clear
+find header.png
+find header.png
+find -name header.png
