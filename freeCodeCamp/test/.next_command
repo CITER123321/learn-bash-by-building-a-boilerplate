@@ -166,3 +166,5 @@ ls --color=auto
 cp backround.jpg
 cp backround.jpg images
 cp background.jpg images
+ls --color=auto
+cd images
